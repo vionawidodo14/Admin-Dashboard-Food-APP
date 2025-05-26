@@ -21,4 +21,6 @@ This is the Admin Web Application for managing a restaurant's content and operat
 1. Dashboard overview of total sales and revenue
 2. Visual charts for easy interpretation
 
+Below is how the Web App looks 🍲
+
 ![8BB11FE4-AB50-430C-8EF3-35D9FE1B74ED](https://github.com/user-attachments/assets/f95ccb16-8274-466a-8298-c1e7f5d86221)
