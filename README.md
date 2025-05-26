@@ -5,16 +5,20 @@ This is the Admin Web Application for managing a restaurant's content and operat
 🔧 Features
 
 🧾 Menu & Restaurant Management
-Add / Edit / Delete Menu Items
-Organize food categories
-Update pricing, descriptions, and availability
-Manage restaurant profile
+1. Add / Edit / Delete Menu Items
+2. Organize food categories
+3. Update pricing, descriptions, and availability
+4. Manage restaurant profile
+
+
 📦 Order Management
-View incoming orders from the food ordering app
-Update order status (e.g., Preparing, Ready, Completed)
-Track order history
+1. View incoming orders from the food ordering app
+2. Update order status (e.g., Preparing, Ready, Completed)
+3. Track order history
+
+
 📈 Sales & Revenue Analytics
-Dashboard overview of total sales and revenue
-Visual charts for easy interpretation
+1. Dashboard overview of total sales and revenue
+2. Visual charts for easy interpretation
 
 ![8BB11FE4-AB50-430C-8EF3-35D9FE1B74ED](https://github.com/user-attachments/assets/f95ccb16-8274-466a-8298-c1e7f5d86221)
